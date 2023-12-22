@@ -25,6 +25,7 @@
 - TROLL INTENET FEATURE
 - SIGN OUT PSN FEATURE (disconnect wifi)
 - LAGGY GAME FEATURE
+- SCAN IP (NETWORK YOUR CONNECTED TO)
 
 
 ### :art: Color Reference
